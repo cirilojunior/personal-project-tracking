@@ -1,0 +1,11 @@
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
